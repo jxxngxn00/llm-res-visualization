@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/llm-res-visualization/static/js/main.921975ea.js",
+    "index.html": "/llm-res-visualization/index.html",
+    "main.921975ea.js.map": "/llm-res-visualization/static/js/main.921975ea.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.921975ea.js"
+  ]
+}
