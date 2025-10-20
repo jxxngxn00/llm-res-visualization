@@ -1,0 +1,673 @@
+[
+{"event": {"id": "cmpl-7c63215a1dd95f07234061ba", "object": "chat.completion.chunk", "model": "Konan-LLM-ENT-11", "created": 1760948344, "choices": [{"index": 0, "finish_reason": null, "delta": {"content": "답변을 생성합니다."}}]}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "", "function_call": null, "refusal": null, "role": "assistant", "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "물론", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "입니다", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ".", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 문서", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 작성", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 시", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ",", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " '", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "하십시오", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "'", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "와", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " '", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "하", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "십", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "시", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "요", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "'", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 중", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 어떤", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 표현", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "을", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 사용할", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "지", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 고민", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "하는", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 것은", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 매우", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 중요한", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 문제", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "입니다", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ".", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 이", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 두", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 표현", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "은", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 모두", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 존", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "댓", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "말", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "이지만", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ",", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 그", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 사용", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 맥락", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "과", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 격", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "식", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "의", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 차", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "이가", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 있기", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 때문", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "입니다", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ".\n\n", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "'", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "하십시오", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "'", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "는", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 일상", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "적인", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 공식", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 문서", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "나", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 비즈니스", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 문서", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "에서", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 자주", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 사용", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "되는", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 표현", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "입니다", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ".", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 이", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 표현", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "은", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 상대방", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "에게", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 공손", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "하게", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 요청", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "하거나", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 지시", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "할", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 때", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 적합", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "하며", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ",", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 일반", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "적으로", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 널리", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 통용", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "되는", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 표준", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "어", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "입니다", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ".", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 예", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "를", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 들어", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ",", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " \"", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "문", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "서를", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 작성", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "하십시오", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "\"", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "와", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 같은", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 문", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "장은", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 대부분", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "의", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 공식", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 문서", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "에서", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 적절", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "하게", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 사용", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "될", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 수", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 있습니다", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ".\n\n", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "반면", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ",", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " '", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "하", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "십", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "시", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "요", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "'", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "는", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 매우", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 격", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "식", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 있는", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 표현", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "으로", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ",", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 공식", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "적인", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 문서", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "나", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 매우", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 높은", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 수준", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "의", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 존", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "댓", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "말이", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 필요한", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 상황", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "에서", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 사용", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "됩니다", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ".", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 이", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 표현", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "은", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 특히", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 전통", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "적인", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 문서", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "나", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 매우", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 공식", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "적인", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 자리", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "에서", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 사용", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "되며", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ",", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 현대", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "적인", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 문서", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "에서는", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 거의", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 사용", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "되지", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 않습니다", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ".", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 예", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "를", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 들어", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ",", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " \"", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "문", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "서를", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 작성", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "하", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "십", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "시", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "요", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "\"", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "와", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 같은", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 문", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "장은", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 매우", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 특별", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "한", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 상황", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "에서만", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 사용", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "될", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 수", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 있습니다", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ".\n\n", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "따라서", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 일반", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "적인", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 문서", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 작성", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "에서는", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " '", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "하십시오", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "'", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "를", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 사용하는", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 것이", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 더", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 적절", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "합니다", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ".", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " '", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "하십시오", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "'", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "는", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 널리", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 통용", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "되는", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 표준", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "어로", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ",", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 대부분", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "의", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 공식", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 문서", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "에서", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 적절", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "하게", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 사용", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "될", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 수", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 있으며", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ",", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 상대방", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "에게", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 공손", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "하게", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 요청", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "하거나", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 지시", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "할", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 때", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 적합", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "합니다", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ".", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 반면", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ",", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " '", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "하", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "십", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "시", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "요", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "'", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "는", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 매우", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 격", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "식", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 있는", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 표현", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "으로", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ",", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 특별", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "한", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 상황", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "에서만", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 사용", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "됩니다", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ".\n\n", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "결론", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "적으로", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ",", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 문서", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 작성", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 시", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "에는", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " '", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "하십시오", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "'", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "를", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 사용하는", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 것이", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 더", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 일반", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "적", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "이고", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 적절", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "한", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 선택", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "입니다", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ".", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 이는", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 널리", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 통용", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "되는", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 표준", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "어로", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ",", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 대부분", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "의", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 공식", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 문서", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "에서", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 적절", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "하게", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 사용", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "될", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 수", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 있으며", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ",", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 상대방", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "에게", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 공손", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "하게", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 요청", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "하거나", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 지시", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "할", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 때", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": " 적합", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "합니다", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": ".", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": null, "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": null}}
+
+,{"data": {"id": "cmpl-731442c9a162b606a640b1c1", "choices": [{"delta": {"content": "", "function_call": null, "refusal": null, "role": null, "tool_calls": []}, "finish_reason": "stop", "index": 0, "logprobs": null}], "created": 1760948344, "model": "Konan-LLM-ENT-11", "object": "chat.completion.chunk", "service_tier": null, "system_fingerprint": null, "usage": {"completion_tokens": 334, "prompt_tokens": 228, "total_tokens": 562, "completion_tokens_details": null, "prompt_tokens_details": null}}}
+]
