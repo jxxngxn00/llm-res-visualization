@@ -1,8 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import Visualization from './components/Visualization';
 import { JsonData } from './types';
-import responseData from './response.json';
-// import responseData from './real_response.json'
+import responseData1 from './response/another_response.json';
+import responseData2 from './response/response.json';
+import responseData3 from './response/real_response.json'
 
 interface LLMChunk {
   event?: any;
@@ -23,9 +24,11 @@ interface LLMChunk {
 const App: React.FC = () => {
   const [data, setData] = useState<JsonData | null>(null);
   const [error, setError] = useState<string | null>(null);
+  const responseData = [...responseData1, ...responseData2, ...responseData3];
 
   useEffect(() => {
     try {
+
       // LLM 응답 데이터를 시각화 데이터로 변환
       const processLLMData = (chunks: LLMChunk[]): JsonData => {
         // 텍스트 콘텐츠 추출 및 결합
@@ -117,8 +120,11 @@ const App: React.FC = () => {
         };
       };
 
-      if (Array.isArray(responseData)) {
-        const processedData = processLLMData(responseData as LLMChunk[]);
+      // const allResponseData = [...responseData1, ...responseData2, ...responseData3];
+      const allResponseData = [...responseData2, ...responseData3];
+
+      if (Array.isArray(allResponseData)) {
+        const processedData = processLLMData(allResponseData as LLMChunk[]);
         setData(processedData);
       } else {
         throw new Error('Invalid response.json format - expected array');

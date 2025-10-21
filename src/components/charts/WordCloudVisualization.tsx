@@ -9,10 +9,10 @@ const WordCloudVisualization: React.FC<WordCloudVisualizationProps> = ({
   const options = useMemo(() => ({
     rotations: 2,
     rotationAngles: [-90, 0] as [number, number],
-    fontSizes: [20, 60] as [number, number],
-    fontFamily: 'impact',
-    padding: 5,
-    width: 500,
+    fontSizes: [16, 48] as [number, number], // 크기 범위 조정
+    fontFamily: 'Arial, sans-serif', // 웹 안전 폰트 사용
+    padding: 3, // 패딩 줄임
+    width: 600, // 크기 증가
     height: 400,
   }), []);
 
@@ -24,12 +24,31 @@ const WordCloudVisualization: React.FC<WordCloudVisualizationProps> = ({
     // 기존 내용 제거
     d3.select('#word-cloud').selectAll('*').remove();
     
+    // 단어 빈도 정규화
+    const maxValue = Math.max(...wordCloudData.map(d => d.value));
+    const minValue = Math.min(...wordCloudData.map(d => d.value));
+    
+    console.log('Word frequencies:', wordCloudData); // 디버깅용
+    console.log('Max value:', maxValue, 'Min value:', minValue); // 디버깅용
+    
     const layout = cloud()
       .size([options.width, options.height])
-      .words(wordCloudData.map(d => ({ 
-        text: d.text, 
-        size: Math.min(Math.max(d.value * 10, options.fontSizes[0]), options.fontSizes[1])
-      })))
+      .words(wordCloudData.map(d => {
+        // 정규화된 폰트 크기 계산
+        const normalizedValue = maxValue > minValue 
+          ? (d.value - minValue) / (maxValue - minValue) 
+          : 0.5;
+        
+        const fontSize = options.fontSizes[0] + 
+          (normalizedValue * (options.fontSizes[1] - options.fontSizes[0]));
+        
+        console.log(`Word: ${d.text}, frequency: ${d.value}, fontSize: ${fontSize}`); // 디버깅용
+        
+        return {
+          text: d.text,
+          size: Math.max(fontSize, options.fontSizes[0]) // 최소 크기 보장
+        };
+      }))
       .padding(options.padding)
       .rotate(() => {
         const angles = options.rotationAngles;
@@ -42,6 +61,8 @@ const WordCloudVisualization: React.FC<WordCloudVisualizationProps> = ({
     layout.start();
 
     function draw(words: any[]) {
+      console.log('Drawing words:', words); // 디버깅용
+      
       d3.select("#word-cloud")
         .append("svg")
         .attr("width", options.width)
@@ -53,8 +74,12 @@ const WordCloudVisualization: React.FC<WordCloudVisualizationProps> = ({
         .selectAll("text")
         .data(words)
         .enter().append("text")
-        .style("font-size", d => `${d.size}px`)
+        .style("font-size", d => {
+          console.log(`Rendering ${d.text} with size ${d.size}px`); // 디버깅용
+          return `${d.size}px`;
+        })
         .style("font-family", options.fontFamily)
+        .style("font-weight", "bold") // 폰트 굵기 추가
         .style("fill", (d, i) => d3.schemeCategory10[i % 10])
         .attr("text-anchor", "middle")
         .attr("transform", d => `translate(${d.x}, ${d.y}) rotate(${d.rotate})`)
