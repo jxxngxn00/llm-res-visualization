@@ -1,11 +1,21 @@
 import React from 'react';
+// 모델 관련 차트
 import ChartVisualization from './charts/ChartVisualization';
 import PieChartVisualization from './charts/PieChartVisualization';
 import LineChartVisualization from './charts/LineChartVisualization';
+// 단어 관련 차트
 import WordLengthVisualization from './charts/WordLengthVisualization';
-import WordCloudVisualization from './charts/WordCloudVisualization';
-import { VisualizationProps } from '../types';
 import SentenceLengthVisualization from './charts/SentenceLengthVisualization';
+import SentenceCompositionChart from './charts/SentenceCompositionChart';
+//딜레이 관련 차트
+import DelayDistributionChart from './charts/DelayDistributionChart';
+import GenerationSpeedChart from './charts/GenerationSpeedChart';
+import ThroughputChart from './charts/ThroughputChart';
+import SlowdownDetectionChart from './charts/SlowdownDetectionChart';
+// 워드 클라우드
+import WordCloudVisualization from './charts/WordCloudVisualization';
+
+import { VisualizationProps } from '../types';
 
 const Visualization: React.FC<VisualizationProps> = ({ data }) => {
   return (
@@ -20,9 +30,24 @@ const Visualization: React.FC<VisualizationProps> = ({ data }) => {
       </section>
       <section style={{ marginBottom: '5rem' }}>
         <h2>Word Chart Visualization</h2>
-        <div style={{ display: 'grid', gap: '2rem', gridTemplateColumns: '1fr 1fr', width: '100%'}}>
+        <div style={{ display: 'grid', gap: '2rem', gridTemplateColumns: '1fr 1fr 1fr', width: '100%'}}>
           <WordLengthVisualization chartData={data.wordLengthData} />
           <SentenceLengthVisualization chartData={data.sentenceLengthData} />
+          <SentenceCompositionChart chartData={data.compositionData}/>
+        </div>
+      </section>
+      <section style={{ marginBottom: '5rem' }}>
+        <h2>Delay Chart Visualization</h2>
+        <div style={{ display: 'grid', gap: '2rem', gridTemplateColumns: '1fr 1fr 1fr 1fr', width: '100%'}}>
+          <DelayDistributionChart chartData={data.delayData} />
+          <GenerationSpeedChart chartData={data.speedData} />
+          <ThroughputChart chartData={data.throughputData} />
+          <SlowdownDetectionChart chartData={data.slowdownData.map(item => ({
+            time: item.index.toString(),
+            delay: item.delay,
+            avgDelay: item.avgDelay,
+            index: item.index
+          }))} />
         </div>
       </section>
       <section>
